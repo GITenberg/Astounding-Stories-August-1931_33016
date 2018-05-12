@@ -1,0 +1,33 @@
+_repo: Astounding-Stories-August-1931_33016
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33016-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2010-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, American -- Periodicals'
+- !lcsh 'Science fiction -- Periodicals'
+- !lcc 'PN'
+tableOfContents: The Danger from the Deep / Ralph Milne Farley -- Brood of the Dark
+  Moon / Charles Willard Diffin -- If the Sun Died / R. F. Starzl -- The Midget from
+  the Island / H. G. Winter -- The Moon Weed / Harl Vincent -- The Port of Missing
+  Planes / Captain S. P. Meek
+title: Astounding Stories,  August, 1931
+url: http://www.gutenberg.org/ebooks/33016
